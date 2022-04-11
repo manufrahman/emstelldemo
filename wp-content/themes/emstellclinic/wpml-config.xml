@@ -1,0 +1,50 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">clinika_post_border_button_color</custom-field>
+        <custom-field action="translate">clinika_post_border_color</custom-field>
+        <custom-field action="translate">clinika_post_background_color</custom-field>
+        <custom-field action="translate">clinika_course_featured_image</custom-field>
+        <custom-field action="translate">clinika_related_courses</custom-field>
+        <custom-field action="translate">clinika_contact_latitude</custom-field>
+        <custom-field action="translate">clinika_contact_longitude</custom-field>
+        <custom-field action="translate">page_title_on_off</custom-field>
+        <custom-field action="translate">modeltheme_contact_latitude</custom-field>
+        <custom-field action="translate">modeltheme_contact_longitude</custom-field>
+        <custom-field action="translate">breadcrumbs_on_off</custom-field>
+        <custom-field action="translate">page_spacing</custom-field>
+        <custom-field action="translate">select_page_sidebar</custom-field>
+        <custom-field action="translate">av-job-position</custom-field>
+        <custom-field action="translate">av-facebook-link</custom-field>
+        <custom-field action="translate">av-twitter-link</custom-field>
+        <custom-field action="translate">av-gplus-link</custom-field>
+        <custom-field action="translate">av-instagram-link</custom-field>
+        <custom-field action="translate">blog_page_header</custom-field>
+        <custom-field action="translate">clinika_testimonial_border_color</custom-field>
+        <custom-field action="translate">clinika_testimonial_bg_color</custom-field>
+        <custom-field action="translate">select_revslider_shortcode</custom-field>
+        <custom-field action="translate">clinika_service_badge_background_color</custom-field>
+        <custom-field action="translate">clinika_service_badge_border_color</custom-field>
+        <custom-field action="translate">clinika_service_badge_icon</custom-field>
+        <custom-field action="translate">clinika_service_category</custom-field>
+        <custom-field action="translate">clinika_event_bg_color</custom-field>
+        <custom-field action="translate">clinika_event_border_color</custom-field>
+        <custom-field action="translate">modeltheme_service_category</custom-field>
+        <custom-field action="translate">modeltheme_sermon_bg_color</custom-field>
+        <custom-field action="translate">job-position</custom-field>
+        <custom-field action="translate">company</custom-field>
+        <custom-field action="translate">clinika_course_background_color</custom-field>
+        <custom-field action="translate">clinika_course_border_color</custom-field>
+        <custom-field action="translate">clinika_course_badge_icon</custom-field>
+        <custom-field action="translate">clinika_course_layout</custom-field>
+        <custom-field action="translate">clinika_course_sidebar</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">contact_locations</custom-type>
+        <custom-type translate="1">testimonial</custom-type>
+        <custom-type translate="1">quote</custom-type>
+        <custom-type translate="1">service</custom-type>
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">services</taxonomy>
+    </taxonomies>    
+</wpml-config>
